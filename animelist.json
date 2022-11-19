@@ -3,5 +3,10 @@
         "titre": "Naruto",
         "genre": "shonen",
         "origine":"japon"
+    },
+    {
+        "titre": "Dragon Ball Z",
+        "genre": "shonen",
+        "origine":"japon"
     }
 ]
